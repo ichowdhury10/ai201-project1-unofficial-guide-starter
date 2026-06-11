@@ -1,0 +1,28 @@
+Professor: Igor Faynberg
+Department: Computer Science
+Institution: Stevens Institute of Technology
+Source: Rate My Professors (https://www.ratemyprofessors.com/professor/1979261)
+Overall Rating: 3.3 / 5.0
+Difficulty: 3.2 / 5.0
+Would Take Again: 48%
+Courses Taught: CS524 (Cloud Computing)
+
+--- STUDENT REVIEWS ---
+
+Course: CS524 | Date: March 28, 2026 | Quality: 1/5 | Difficulty: 5/5 | Grade: A-
+"One of the worst professors I have encountered at Stevens. He does not teach anything meaningful. He has been using the same syllabus and lecture slides for over 12 years without any updates. He discusses topics in class but asks completely different questions on exams. Avoid this professor even if it means taking the course later."
+
+Course: CS524 | Date: November 8, 2025 | Quality: 4/5 | Difficulty: 3/5
+"The professor has a lot of knowledge in his field, but it can be difficult to understand him — his accent is thick and he speaks quickly. Sit in the front rows. Take advantage of the AWS courses he assigns — they are actually useful. Many assignments but most are manageable. The final project counts a lot toward your grade."
+
+Course: CS524 | Date: October 16, 2025 | Quality: 5/5 | Difficulty: 1/5 | Grade: A+
+"He is a good professor overall. His class can get a little boring sometimes, but the concepts are really insightful when you pay attention. His prior industry experience is worth learning from. The main negative is that he requires you to buy his textbook, which is the only material allowed in midterms — but honestly, even without the book it is not too hard."
+
+Course: CS524 | Date: October 3, 2025 | Quality: 5/5 | Difficulty: 2/5 | Grade: A+
+"He is a great professor who teaches not just the subject but the history and real-world context around it. Loved his class. His accent can be a bit difficult to understand at first but you get used to it quickly. The AWS hands-on work is practical and relevant."
+
+Course: CS524 | Date: May 6, 2025 | Quality: 1/5 | Difficulty: 1/5 | Grade: A
+"Hands down the worst class I have taken at Stevens. The professor is personally nice but his lectures are terrible. All assignments are busy work done through AWS. I have never skipped a class before — I started skipping this one. If you want an easy A with no learning, take this course. If you want to learn real cloud computing, do not."
+
+Course: CS524 | Date: December 10, 2024 | Quality: 3/5 | Difficulty: 3/5 | Grade: B+
+"Mixed feelings. The AWS lab assignments are the best part — hands-on cloud work is genuinely useful for job interviews. The lectures, however, are dry and recycled from years past. The midterm is open book only if you bought his textbook. Overall worth it for the AWS experience if you can tolerate the outdated lectures."

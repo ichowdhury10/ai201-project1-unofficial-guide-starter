@@ -1,0 +1,28 @@
+Professor: Jacek Ossowski
+Department: Computer Science
+Institution: Stevens Institute of Technology
+Source: Rate My Professors (https://www.ratemyprofessors.com/professor/2892587)
+Overall Rating: 3.7 / 5.0
+Difficulty: 3.7 / 5.0
+Would Take Again: 64%
+Courses Taught: CS334 (Object-Oriented Design), CS135 (Introduction to Programming)
+
+--- STUDENT REVIEWS ---
+
+Course: CS334 | Date: December 23, 2025 | Quality: 5/5 | Difficulty: 3/5
+"Jacek is better than people give him credit for. He will introduce a hard concept and then go over detailed examples until it clicks. Design patterns become intuitive by the end of the course. If you put in reasonable effort you will come out a better programmer."
+
+Course: CS334 | Date: December 18, 2025 | Quality: 5/5 | Difficulty: 3/5
+"If you are willing to put in an okay amount of effort with Jacek, you can comfortably get a B or better. He explains object-oriented principles clearly and the project work is relevant. Not the hardest professor but not a pushover either."
+
+Course: CS334 | Date: December 12, 2025 | Quality: 2/5 | Difficulty: 3/5
+"Jacek's lectures are boring, making it easy to drift off and not retain much of the information. The content is important — design patterns and OOP principles — but the delivery is flat. Would benefit from more interactive teaching."
+
+Course: CS334 | Date: November 14, 2025 | Quality: 2/5 | Difficulty: 4/5
+"Jacek is passionate about the subject but the lectures can feel flat and monotonous. He goes through slides quickly without checking for understanding. The assignments are fair but the exams cover material that wasn't heavily emphasized in class."
+
+Course: CS135 | Date: May 18, 2025 | Quality: 5/5 | Difficulty: 4/5
+"Jacek is a great professor — honestly one of my favorites at Stevens so far. His intro programming lectures are well structured and he is patient with students who are new to coding. He makes the fundamentals clear and the projects are fun and educational."
+
+Course: CS334 | Date: September 5, 2025 | Quality: 4/5 | Difficulty: 3/5 | Grade: A-
+"Decent professor for OOP. The course covers UML, design patterns, and SOLID principles — useful stuff for any software engineer. Jacek is approachable and responds to emails. The semester project is the main workload driver and he gives reasonable feedback on it."

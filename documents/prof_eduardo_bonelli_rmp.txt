@@ -1,0 +1,28 @@
+Professor: Eduardo Bonelli
+Department: Computer Science
+Institution: Stevens Institute of Technology
+Source: Rate My Professors (https://www.ratemyprofessors.com/professor/2113255)
+Overall Rating: 4.2 / 5.0
+Difficulty: 3.6 / 5.0
+Would Take Again: 86%
+Courses Taught: CS496 (Programming Languages), CS511 (Formal Methods)
+
+--- STUDENT REVIEWS ---
+
+Course: CS496 | Date: May 5, 2025 | Quality: 5/5 | Difficulty: 3/5 | Grade: A+
+"Eduardo Bonelli is one of the best professors in the CS department. His lectures on programming languages are genuinely inspiring — he walks you through building interpreters and language type checkers from scratch. Clear, enthusiastic, and genuinely cares about the subject matter."
+
+Course: CS496 | Date: April 23, 2025 | Quality: 4/5 | Difficulty: 4/5
+"Difficult class but a great professor. He really cares about his students and their understanding. Weekly quizzes are a bit annoying but they keep you engaged. The course has limited practical applications compared to other CS electives but the theoretical grounding is solid."
+
+Course: CS496 | Date: January 29, 2025 | Quality: 5/5 | Difficulty: 3/5 | Grade: A
+"Great professor who knows his material deeply. The key to doing well is studying consistently — do not let it pile up. There are substantial extra credit opportunities that can give you up to a 60-point homework boost, which is very helpful."
+
+Course: CS511 | Date: January 6, 2025 | Quality: 1/5 | Difficulty: 5/5 | Grade: F
+"Terrible experience, as other reviews of this course suggest. The pop quizzes are frequent and unexpected. The test format is unforgiving. Do not take Formal Methods with Bonelli unless you are exceptionally strong in mathematical logic."
+
+Course: CS511 | Date: June 23, 2024 | Quality: 5/5 | Difficulty: 2/5 | Grade: A
+"Bonelli is a great professor and is always ready to help students who make the effort to reach out. In CS511, the quiz material aligned perfectly with the optional practice exercises — do those and you will be fine."
+
+Course: CS496 | Date: December 15, 2023 | Quality: 4/5 | Difficulty: 4/5 | Grade: B+
+"Programming Languages is not for everyone but Bonelli makes it as approachable as possible. He is patient, explains lambda calculus and type systems step by step, and provides helpful examples. The course content is dense but rewarding if you enjoy theory."

@@ -1,0 +1,28 @@
+Professor: Samantha Kleinberg
+Department: Computer Science
+Institution: Stevens Institute of Technology
+Source: Rate My Professors (https://www.ratemyprofessors.com/professor/1974645)
+Overall Rating: 1.6 / 5.0
+Difficulty: 3.0 / 5.0
+Would Take Again: 15%
+Courses Taught: CS544 (Causality and Data Science), CS582 (Knowledge Graphs and Reasoning)
+
+--- STUDENT REVIEWS ---
+
+Course: CS544 | Date: May 5, 2026 | Quality: 3/5 | Difficulty: 3/5
+"Prof K gives great, engaging lectures and is accessible over email. But, absolutely no devices allowed in class — no laptops, no tablets, no phones. Assignments are graded inconsistently: homework is either 0 or 100 with no partial credit. LOTS of dense reading every week — two 7-page research papers minimum."
+
+Course: CS544 | Date: April 3, 2025 | Quality: 1/5 | Difficulty: 5/5
+"Don't take this class if you think it might be an easy A. There is a massive reading load — 2 seven-page research papers per week where you have to give a detailed analysis and post leading discussion questions. The grading is very harsh and the professor shows little flexibility."
+
+Course: CS582 | Date: March 5, 2019 | Quality: 1/5 | Difficulty: 3/5
+"Computer science class but using a computer is forbidden in class. She does not have any sympathy for students struggling with the material. Very cold teaching style."
+
+Course: CS582 | Date: October 2, 2018 | Quality: 1/5 | Difficulty: 1/5
+"She never accepts responsibility and blames students for everything. You cannot move in the class — she will directly ask why you are shifting in your seat. Very controlling classroom environment."
+
+Course: CS544 | Date: March 13, 2018 | Quality: 1/5 | Difficulty: 4/5
+"Unfair exams that do not reflect what was covered in class. She is arrogant and dismissive of student concerns. Do not recommend unless you are genuinely passionate about causality research."
+
+Course: CS544 | Date: September 15, 2023 | Quality: 2/5 | Difficulty: 3/5
+"The research she does is genuinely interesting and she knows her field well. The problem is that she expects graduate-level reading and analysis in every class session. If you are strong in research and writing, you might be okay. If you want practical or applied CS, look elsewhere."

@@ -1,0 +1,31 @@
+Professor: Samuel Kim
+Department: Computer Science
+Institution: Stevens Institute of Technology
+Source: Rate My Professors (https://www.ratemyprofessors.com/professor/1083039)
+Overall Rating: 3.4 / 5.0
+Difficulty: 3.7 / 5.0
+Would Take Again: 44%
+Courses Taught: CS561 (Database Management Systems), CS562 (Advanced Database Systems)
+
+--- STUDENT REVIEWS ---
+
+Course: CS561 | Date: November 8, 2025 | Quality: 4/5 | Difficulty: 4/5
+"The professor's lectures are good and has great examples to help you understand the concepts. The homeworks are difficult and you will need a lot of time to solve them."
+
+Course: CS561 | Date: November 6, 2025 | Quality: 5/5 | Difficulty: 4/5 | Grade: B
+"Amazing lecturer and very knowledgeable! His teaching is clear and focused on real understanding. Tests are paper-based with no room to copy, and he grades strictly but fairly."
+
+Course: CS561 | Date: June 13, 2025 | Quality: 5/5 | Difficulty: 3/5 | Grade: A+
+"His classes are engaging and he is very funny. Studied DBMS in my undergrad, but the assignments are very good to refresh the basic concepts."
+
+Course: CS561 | Date: January 21, 2025 | Quality: 4/5 | Difficulty: 3/5 | Grade: A
+"The professor is not too tough since he curved the grades. Manageable workload if you keep up with lectures."
+
+Course: CS562 | Date: December 28, 2024 | Quality: 2/5 | Difficulty: 4/5
+"This is a difficult course. For the final project, professor asked us to implement a research paper. Make sure you start working on the project as early as possible. The project scope was not clearly communicated until mid-semester."
+
+Course: CS561 | Date: October 15, 2024 | Quality: 3/5 | Difficulty: 4/5 | Grade: B+
+"Kim is knowledgeable but the homework problems are significantly harder than what he covers in lecture. The gap between lecture content and assignment difficulty is noticeable. Go to office hours — he is actually helpful there."
+
+Course: CS561 | Date: May 2, 2024 | Quality: 4/5 | Difficulty: 3/5 | Grade: A
+"Good professor overall. The exams are paper-based and closed book, so make sure you memorize key query syntax. He does curve at the end. Not the most exciting lectures but the material is covered thoroughly."

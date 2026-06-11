@@ -1,0 +1,28 @@
+Professor: Nikos Triandopoulos
+Department: Computer Science
+Institution: Stevens Institute of Technology
+Source: Rate My Professors (https://www.ratemyprofessors.com/professor/2348868)
+Overall Rating: 1.7 / 5.0
+Difficulty: 2.8 / 5.0
+Would Take Again: 9%
+Courses Taught: CS579 (Information Security), CS396 (Introduction to Information Security), CS101 (Introduction to Computer Science)
+
+--- STUDENT REVIEWS ---
+
+Course: CS579 | Date: August 24, 2025 | Quality: 1/5 | Difficulty: 1/5
+"This professor is exceptionally difficult to work with. He never shows up to class on time or at all. He always reschedules office hours and meetings at the last minute. He is extremely slow at grading — assignments sit ungraded for weeks. One of the most disorganized professors I have encountered."
+
+Course: CS579 | Date: April 26, 2024 | Quality: 1/5 | Difficulty: 5/5
+"This professor never shows up to class. When he does, his lectures are very hard to follow — boring and repetitive with no clear structure. There is no engagement and students are left to teach themselves. Would not recommend under any circumstances."
+
+Course: CS396 | Date: January 18, 2024 | Quality: 2/5 | Difficulty: 1/5
+"Triandopoulos never showed up for class. The first time we had an in-person lecture was after four weeks into the semester — and he made a comment about how many students weren't there, seemingly unaware of the irony. Extremely frustrating experience."
+
+Course: CS396 | Date: December 22, 2023 | Quality: 2/5 | Difficulty: 2/5
+"Prof commutes from Boston so class was often pushed online with little notice. Not too many assignments. He does give lots of extra credit, which is the one silver lining. But the course feels poorly run overall."
+
+Course: CS101 | Date: August 2, 2023 | Quality: 1/5 | Difficulty: 2/5
+"A useless introduction to computer science with a boring and hard-to-understand professor. No one pays attention in class. The content is not organized well and there is no sense that the professor prepared for the lecture. Very disappointing as a first CS course."
+
+Course: CS396 | Date: May 14, 2023 | Quality: 1/5 | Difficulty: 1/5
+"He spent the semester rescheduling and canceling classes. The few sessions we had were disorganized. Grading was inconsistent and late. Do not take this professor if you actually want to learn about security — take someone else."

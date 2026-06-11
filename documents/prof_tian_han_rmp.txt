@@ -1,0 +1,28 @@
+Professor: Tian Han
+Department: Computer Science
+Institution: Stevens Institute of Technology
+Source: Rate My Professors (https://www.ratemyprofessors.com/professor/2531256)
+Overall Rating: 4.2 / 5.0
+Difficulty: 3.8 / 5.0
+Would Take Again: 75%
+Courses Taught: CS583 (Machine Learning), CS559 (Deep Learning)
+
+--- STUDENT REVIEWS ---
+
+Course: CS583 | Date: May 6, 2025 | Quality: 5/5 | Difficulty: 2/5 | Grade: A
+"All round good class. Homeworks were a bit too easy, but Prof does a great job of building intuition about models. If you want to understand the math behind machine learning rather than just calling sklearn, this is the class."
+
+Course: CS583 | Date: September 5, 2024 | Quality: 3/5 | Difficulty: 4/5 | Grade: A
+"Great slides, but refuses to use a mic and doesn't speak loud enough so he's hard to hear from the back. Doesn't write his own homeworks so he won't help you debug them — go to the TAs instead. Lectures are recorded which is helpful."
+
+Course: CS583 | Date: May 18, 2024 | Quality: 2/5 | Difficulty: 5/5
+"The final exam score is ridiculously low. The homework is okay, but the questions on the exam are tricky and not representative of the homework. Several classmates were blindsided by the exam difficulty."
+
+Course: CS583 | Date: April 21, 2024 | Quality: 3/5 | Difficulty: 4/5
+"Lectures are good and recorded, which I appreciated. Homeworks are not too long but don't really prepare you for exams at all — there's a big gap between HW difficulty and exam difficulty. Instructions are not always clear."
+
+Course: CS559 | Date: March 28, 2024 | Quality: 5/5 | Difficulty: 4/5 | Grade: B+
+"An amazing and very passionate lecturer. Explains deep learning concepts very well and builds genuine intuition. If you like machine learning, he is a great professor to take. The course covers CNNs, RNNs, and transformers at a solid depth."
+
+Course: CS583 | Date: November 10, 2023 | Quality: 4/5 | Difficulty: 3/5 | Grade: A-
+"Tian Han is enthusiastic and clearly loves the subject. The homework assignments are straightforward but the midterm came out of nowhere. Sit near the front because his voice does not carry well. Very approachable during office hours."

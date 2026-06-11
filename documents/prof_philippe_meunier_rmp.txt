@@ -1,0 +1,28 @@
+Professor: Philippe Meunier
+Department: Computer Science
+Institution: Stevens Institute of Technology
+Source: Rate My Professors (https://www.ratemyprofessors.com/professor/2729187)
+Overall Rating: 4.5 / 5.0
+Difficulty: 3.2 / 5.0
+Would Take Again: 87%
+Courses Taught: CS385 (Algorithms and Data Structures)
+
+--- STUDENT REVIEWS ---
+
+Course: CS385 | Date: September 5, 2025 | Quality: 4/5 | Difficulty: 4/5 | Grade: B+
+"DO NOT CHEAT. He is very serious about academic integrity and will report you. Do the homework yourself and you will be fine. Lectures are solid and the homeworks prepare you well for the exams if you actually do them."
+
+Course: CS385 | Date: July 17, 2025 | Quality: 5/5 | Difficulty: 2/5 | Grade: A
+"Phillipe (also known as 'Big P') is the greatest algorithms professor at Stevens. He covers sorting algorithms, pointers, C++, binary trees, and Ubuntu/Linux. His accent is charming and his style is one of a kind. Take him — you will not regret it."
+
+Course: CS385 | Date: December 24, 2024 | Quality: 4/5 | Difficulty: 5/5 | Grade: A-
+"Great professor who challenges you. The course is assignment-heavy but he always helps students prepare for exams. Good balance of high standards and encouragement. He does not curve easily but is willing to work with students who put in genuine effort. I wish he would be more forgiving of students who try hard but think differently."
+
+Course: CS385 | Date: December 21, 2024 | Quality: 5/5 | Difficulty: 4/5 | Grade: A
+"In lectures, he reads straight from a .txt file, which sounds terrible but works better than you'd expect. Tests are hard but manageable if you prepare — not tricky, just thorough. He is clearly passionate about algorithms and that enthusiasm carries into the class."
+
+Course: CS385 | Date: December 13, 2024 | Quality: 2/5 | Difficulty: 3/5
+"His lectures are hard to engage with because he reads from a text file. He has been rude to me and other students on multiple occasions. He is also very quick to suspect cheating without solid evidence. The content itself is well-structured but the delivery and attitude bring the experience down significantly."
+
+Course: CS385 | Date: May 20, 2024 | Quality: 5/5 | Difficulty: 3/5 | Grade: A
+"Meunier is tough but one of the best teachers I have had at Stevens. He explains algorithms with clarity and his examples are memorable. The homeworks are meaningful — not busy work. If you are willing to put in the work, you will learn a lot. Strong recommend for any CS student."

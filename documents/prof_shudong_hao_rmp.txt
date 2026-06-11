@@ -1,0 +1,29 @@
+Professor: Shudong Hao
+Department: Computer Science
+Institution: Stevens Institute of Technology
+Source: Rate My Professors (https://www.ratemyprofessors.com/professor/2757871)
+Overall Rating: 4.1 / 5.0
+Difficulty: 3.6 / 5.0
+Would Take Again: 76%
+Courses Taught: CS382 (Introduction to Computer Science Theory), CS392 (Systems Programming)
+
+--- STUDENT REVIEWS ---
+
+Course: CS392 | Date: April 17, 2026 | Quality: 5/5 | Difficulty: 3/5 | Grade: A
+"Shudong is a fantastic professor. He makes Systems Programming genuinely enjoyable. Clear explanations, good pacing, and he actually responds quickly when you have questions. One of the best professors in the CS department."
+
+Course: CS382 | Date: February 19, 2026 | Quality: 5/5 | Difficulty: 4/5 | Grade: A
+Tags: Extra credit, Amazing lectures, Clear grading criteria
+"Shudong provides extra credit opportunities and his grading criteria are clearly explained upfront. The lectures are genuinely engaging. Theory of computation is not an easy subject but he makes it accessible. Would take him again without hesitation."
+
+Course: CS392 | Date: December 18, 2025 | Quality: 5/5 | Difficulty: 2/5 | Grade: B-
+"One of the most memorable professors at Stevens. He clearly puts effort into his teaching and his enthusiasm for the subject shows. Even if the grade wasn't what I hoped for, I learned more in this class than in most others."
+
+Course: CS382 | Date: December 18, 2025 | Quality: 5/5 | Difficulty: 3/5 | Grade: A+
+"Shudong is the real deal. Explains automata and computability theory with genuine clarity. He writes his own textbook for the course and it's actually useful. Great professor, fair grader. Take him if you can."
+
+Course: CS382 | Date: December 13, 2025 | Quality: 5/5 | Difficulty: 3/5 | Grade: A
+"Great professor who clearly knows what he's talking about. The textbook used in the course is written and provided by him, which means the lecture and the reading are perfectly aligned. Highly recommend for CS Theory."
+
+Course: CS392 | Date: September 20, 2025 | Quality: 4/5 | Difficulty: 4/5 | Grade: B+
+"Systems Programming with Shudong is demanding but fair. He moves quickly through C and Unix system calls, so come prepared. The projects are meaningful and practical. Office hours are useful — he helps you think through the problem rather than just giving you the answer."

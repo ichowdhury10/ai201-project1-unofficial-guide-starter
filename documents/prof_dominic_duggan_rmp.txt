@@ -1,0 +1,31 @@
+Professor: Dominic Duggan
+Department: Computer Science
+Institution: Stevens Institute of Technology
+Source: Rate My Professors (https://www.ratemyprofessors.com/professor/528591)
+Overall Rating: 2.1 / 5.0
+Difficulty: 4.5 / 5.0
+Would Take Again: 24%
+Courses Taught: CS522 (Mobile Computing), CS526 (Advanced Compilers), CS549 (Computer Networks)
+
+--- STUDENT REVIEWS ---
+
+Course: CS522 | Date: February 10, 2026 | Quality: 1/5 | Difficulty: 4/5
+Tags: Tough grader, Lots of homework
+"Boring lectures — he just rambles for the entire class period and often talks about topics weeks ahead of where we currently are. He is an unnecessarily difficult grader and is unhelpful when students approach him for assistance. Very frustrating course experience."
+
+Course: CS526 | Date: October 8, 2024 | Quality: 5/5 | Difficulty: 4/5
+Tags: Tough grader, Participation matters, Lecture heavy
+"As a professional returning student, I appreciated Duggan's focused approach. There is not a lot of group work — it's mostly individual technical depth. He provides ample code walkthroughs in class, which was valuable. If you are serious about compilers and language implementation, he is the right professor for the job."
+
+Course: CS522 | Date: September 20, 2024 | Quality: 1/5 | Difficulty: 4/5
+"The course moves at a fast pace and he does not slow down for technical setup difficulties like Android Studio configuration. If you run into environment problems, you are on your own. The pace and lack of support made this course one of the most frustrating I have taken."
+
+Course: CS522 | Date: August 24, 2024 | Quality: 5/5 | Difficulty: 5/5
+Tags: Tough grader, Lots of homework
+"Professor Duggan forces you to reach your limits and really learn the material. He has very high professional standards and the course reflects that. It is not easy, but if you are preparing for a career in software engineering at a serious company, this kind of rigor is what you need."
+
+Course: CS549 | Date: February 16, 2024 | Quality: 1/5 | Difficulty: 3/5
+"Generally rude and not very helpful. He seems uninterested in student questions and dismissive in office hours. The course content itself is fine but the experience of learning from him is unpleasant."
+
+Course: CS522 | Date: October 30, 2023 | Quality: 2/5 | Difficulty: 4/5 | Grade: B
+"Duggan knows his material but has trouble communicating it. Lectures are dense and disorganized. The homeworks are very time-consuming. He grades hard and does not believe in partial credit. If you have to take Mobile Computing, try to find another section."

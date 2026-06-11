@@ -1,0 +1,28 @@
+Professor: Sandeep Bhatt
+Department: Computer Science
+Institution: Stevens Institute of Technology
+Source: Rate My Professors (https://www.ratemyprofessors.com/professor/2233896)
+Overall Rating: 3.0 / 5.0
+Difficulty: 4.5 / 5.0
+Would Take Again: 47%
+Courses Taught: CS511 (Formal Methods), CS546 (Parallel and Distributed Computing)
+
+--- STUDENT REVIEWS ---
+
+Course: CS511 | Date: April 10, 2025 | Quality: 2/5 | Difficulty: 5/5 | Grade: C
+"Formal Methods is genuinely one of the hardest courses in the CS program. Bhatt knows the material but does not adapt his teaching to the audience. He assumes a level of mathematical maturity that most CS students do not have coming in. The proofs are dense and the exams are brutal."
+
+Course: CS546 | Date: November 20, 2024 | Quality: 4/5 | Difficulty: 4/5 | Grade: B+
+"Parallel and Distributed Computing with Bhatt is demanding but rewarding. He covers MPI, OpenMP, and distributed systems patterns. The homeworks take a long time but you learn real skills. Good preparation for research or industry roles in HPC."
+
+Course: CS511 | Date: May 5, 2024 | Quality: 3/5 | Difficulty: 5/5
+"Bhatt is knowledgeable but the course has a steep learning curve. If you have a strong background in discrete math and logic, you will be okay. If not, expect to struggle. He is available in office hours but his explanations during those sessions can also be dense."
+
+Course: CS546 | Date: December 8, 2023 | Quality: 4/5 | Difficulty: 4/5 | Grade: A-
+"One of the more technically rigorous courses in the CS graduate program. Professor Bhatt sets very high expectations but the course content is genuinely useful. Covers concurrency models, synchronization, and scalability — topics that come up in industry. Recommended if you want to go deep on systems."
+
+Course: CS511 | Date: April 2, 2023 | Quality: 1/5 | Difficulty: 5/5 | Grade: D
+"Do not take this course unless you are a math PhD student. The difficulty is off the charts for a standard CS requirement. Bhatt makes no accommodations and does not slow down. I have never worked harder and gotten a worse grade."
+
+Course: CS546 | Date: October 5, 2024 | Quality: 3/5 | Difficulty: 4/5
+"Bhatt has deep expertise in parallel computing and it shows. His lectures are information-dense but if you pay close attention and read the papers he assigns, things come together. Not a course for slackers. The group project in the second half is useful real-world practice."

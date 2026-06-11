@@ -1,0 +1,28 @@
+Professor: David Klappholz
+Department: Computer Science
+Institution: Stevens Institute of Technology
+Source: Rate My Professors (https://www.ratemyprofessors.com/professor/405308)
+Overall Rating: 1.5 / 5.0
+Difficulty: 3.5 / 5.0
+Would Take Again: 0%
+Courses Taught: CS574 (Software Requirements), CS423 (Software Engineering Project I), CS561 (Database Management Systems)
+
+--- STUDENT REVIEWS ---
+
+Course: CS574 | Date: October 31, 2024 | Quality: 1/5 | Difficulty: 3/5
+"The course material he teaches is clear and straightforward, which is beneficial for understanding the subject. However, he lacks the personal connection and support that students often seek. He is detached and seems disinterested in student progress."
+
+Course: CS423 | Date: September 17, 2024 | Quality: 1/5 | Difficulty: 2/5
+"Very hands off — in a bad way. He is not informed on his students' projects and seems to forget a lot of things between meetings. He just wants you to breeze through the deliverables. Provided almost no guidance throughout the semester."
+
+Course: CS423 | Date: June 23, 2024 | Quality: 1/5 | Difficulty: 1/5
+"You spend 15 minutes telling him what you are doing, he either gives no advice or useless advice, then the meeting ends. He did not even show up to the senior expo at the end of the year. Very disappointing for a capstone course."
+
+Course: CS561 | Date: December 20, 2022 | Quality: 1/5 | Difficulty: 5/5
+"One of the worse professors at Stevens. Not at all accessible during or outside of class. The TA was also incompetent. As a teacher he is simply unfit for the role. I would strongly advise avoiding this professor if you have a choice."
+
+Course: CS561 | Date: October 28, 2022 | Quality: 1/5 | Difficulty: 5/5
+"This is an online class with only recorded hard-to-understand material and no interaction or discussion with students whatsoever. There is zero engagement from the professor. Do not take this course with him if you need actual instruction."
+
+Course: CS574 | Date: April 5, 2023 | Quality: 1/5 | Difficulty: 2/5
+"He goes through the motions but there is no substance. The lectures are surface-level and he cannot answer specific questions about the material. If you email him, don't expect a timely or useful response."
